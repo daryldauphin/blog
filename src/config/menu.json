@@ -18,6 +18,10 @@
       "hasChildren": true,
       "children": [
         {
+          "name": "Live Resource Vault",
+          "url": "https://built-by-daryl.kit.com/9dff3b3897"
+        },
+        {
           "name": "Privacy Policy",
           "url": "/privacy-policy"
         }
