@@ -2,7 +2,7 @@
 title: TEST AGAIN
 meta_title: ""
 description: ""
-date: ""
+date: 2026-03-27T17:03:00.145Z
 image: ""
 categories: []
 authors: []
