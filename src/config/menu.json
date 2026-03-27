@@ -13,17 +13,12 @@
       "url": "https://built-by-daryl.kit.com/bbc6ff5902"
     },
     {
-      "name": "More",
-      "url": "",
-      "hasChildren": true,
+      "name": "Live Resource Vault",
+      "url": "https://built-by-daryl.kit.com/9dff3b3897",
       "children": [
         {
-          "name": "Live Resource Vault",
-          "url": "https://built-by-daryl.kit.com/9dff3b3897"
-        },
-        {
-          "name": "Privacy Policy",
-          "url": "/privacy-policy"
+          "name": "",
+          "url": ""
         }
       ]
     }
