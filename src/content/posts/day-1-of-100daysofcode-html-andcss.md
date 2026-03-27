@@ -1,15 +1,17 @@
 ---
 title: "Day 1 of #100DaysOfCode: HTML and CSS"
 meta_title: ""
-description: ""
+description: "First post of my new series, 100 days of code. "
 date: 2026-03-26T17:21:00.000Z
-image: "/images/Gemini_Generated_Image_14g8u814g8u814g8.png"
+image: "/images/banner.jpg"
 categories:
-  - ""
+  - Coding
 authors:
   - Daryl Dauphin
-tags: []
-draft: true
+tags:
+  - html
+  - css
+draft: false
 ---
 Today was all about staying the path and continuing my project roadmap, I have a list of projects no javascript in this marathon, as I plan on having 100 html and css projects in my GitHub along side building my skills as a front end developer.&#x20;
 
