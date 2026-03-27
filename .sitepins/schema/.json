@@ -1,0 +1,17 @@
+{
+  "file": "",
+  "name": "content",
+  "fileType": "md",
+  "fmType": "yaml",
+  "template": [
+    {
+      "name": "contact",
+      "label": "Contact",
+      "type": "string",
+      "value": "",
+      "description": "",
+      "isRequired": false,
+      "defaultValue": ""
+    }
+  ]
+}
