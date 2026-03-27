@@ -10,7 +10,7 @@
     },
     {
       "name": "Newsletter",
-      "url": "https://built-by-daryl.kit.com/fd9773952f"
+      "url": "https://built-by-daryl.kit.com/bbc6ff5902"
     },
     {
       "name": "More",
@@ -31,11 +31,12 @@
   "footer": [
     {
       "name": "Newsletter",
-      "url": "https://built-by-daryl.kit.com/fd9773952f"
+      "url": "https://built-by-daryl.kit.com/bbc6ff5902"
     },
     {
       "name": "Privacy Policy",
       "url": "/privacy-policy"
     }
-  ]
+  ],
+  "draft": false
 }
