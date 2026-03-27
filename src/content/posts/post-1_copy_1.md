@@ -1,12 +1,16 @@
 ---
-title: "How to make toys from old Olarpaper"
-meta_title: ""
-description: "meta description"
-date: 2025-04-01T05:00:00Z
+title: "TEST"
+meta_title: "META TEST TITLE"
+description: "TEST META"
+date: 2026-03-27T05:00:00.000Z
 image: "/images/posts/01.jpg"
-categories: ["art"]
-authors: ["Mark Dinn"]
-tags: ["diy", "toy"]
+categories:
+  - art
+authors:
+  - Mark Dinn
+tags:
+  - diy
+  - toy
 draft: false
 ---
 
