@@ -23,13 +23,13 @@
     "gtm_id": "GTM-KL3JV8RQ"
   },
   "params": {
-    "contact_form_action": "#",
+    "contact_form_action": "",
     "copyright": "Copyright © 2026 built by [Daryl](https://builtbydaryl.wiki)"
   },
   "contactinfo": {
-    "address": "Boston, MA USA",
-    "email": "builtbydaryl@outlook.com",
-    "phone": "+1 617 910 0083"
+    "address": "",
+    "email": "",
+    "phone": ""
   },
   "draft": false
 }
