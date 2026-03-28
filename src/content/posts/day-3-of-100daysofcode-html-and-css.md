@@ -2,7 +2,7 @@
 title: "Day 3 of #100DaysOfCode: HTML and CSS"
 meta_title: "Day 3 of One hundred days of code"
 description: "Day 3 of One hundred days of code"
-date: 2026-03-27T17:21:31.741Z
+date: 2026-03-28T17:21:00.000Z
 image: "/images/Gemini_Generated_Image_7tancu7tancu7tan.png"
 categories:
   - Programming
