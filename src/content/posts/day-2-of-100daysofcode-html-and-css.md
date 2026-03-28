@@ -31,7 +31,7 @@ Right now I'm building out a one page recipe landing page for a omelette, HTML i
 
 ​
 
-#### 🚀 Day 1 Takeaway
+#### 🚀 Day 2 Takeaway
 
 1. I have a personal blog/website now. Built it in one day!&#x20;
 2. I have a little CSS reset code going, versus what I've seen…it's cute haha.
