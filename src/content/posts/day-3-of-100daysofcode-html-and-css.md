@@ -33,7 +33,7 @@ You can see my solution here: [https://www.frontendmentor.io/solutions/recipe-la
 
 ​
 
-#### 🚀 Day 1 Takeaway
+#### 🚀 Day 3 Takeaway
 
 * To make sure I work on my speed of development, I know a 5 page website from scratch can take about 3-7 days as a project but i have to be well compensated for my level of skill thus far.
 * I know HTML and CSS, but I'm going to complete the foundations of JavaScript of the Odin project.
