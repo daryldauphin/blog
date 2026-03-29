@@ -4,9 +4,13 @@ meta_title: "Day 4 of #100DaysOfCode: HTML and CSS"
 description: "It's day four of the 100 days of code with html and css"
 date: 2026-03-29T22:04:02.558Z
 image: "/images/Gemini_Generated_Image_kjlj2ykjlj2ykjlj.png"
-categories: []
-authors: []
-tags: []
+categories:
+  - Programming
+authors:
+  - Daryl Dauphin
+tags:
+  - html
+  - css
 draft: false
 ---
 I am beginning to settle unto a set schedule for coding and more as I realize I do am going thru a hosing situation but as time goes by my career choices are shifting with the daily decisions and events that come in.&#x20;
